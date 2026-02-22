@@ -4,3 +4,17 @@ matplotlib
 seaborn
 scikit-learn
 tensorflow
+transformers 
+datasets 
+torch
+accelerate>=1.1.0
+xgboost
+qwen-asr
+streamlit
+joblib
+soundfile
+librosa
+fastapi
+uvicorn
+python-multipart
+sqlalchemy

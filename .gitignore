@@ -2,3 +2,8 @@ venv/
 .venv/
 __pycache__/
 *.pycvenv/ 
+notebooks/results/
+**/checkpoint-*/
+*.safetensors
+*.pt
+*.bin
