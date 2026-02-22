@@ -1,0 +1,10 @@
+model:
+  name: xgboost
+  path: artifacts/tf-idf_xgb.pkl
+
+database:
+  url: sqlite:///./database/spam_calls.db
+
+api:
+  host: 127.0.0.1
+  port: 8000
