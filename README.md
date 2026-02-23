@@ -12,7 +12,7 @@ Spam calls are disruptive and potentially harmful to users. This project aims to
 
 2️⃣ GRU (Gated Recurrent Unit) 
 
-## 📊 Model Evaluation Evaluation metrics: 
+## 📊 Model Evaluation Metrics: 
 - Accuracy 
 - Precision 
 - Recall 
